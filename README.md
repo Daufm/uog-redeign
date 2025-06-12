@@ -8,9 +8,6 @@ This project is a redesign of the official University of Gondar (UoG) website. T
 - Enhanced navigation
 - Improved accessibility
 
-## Getting Started
-
-Clone the repository and follow the setup instructions in the documentation.
 
 ## License
 
